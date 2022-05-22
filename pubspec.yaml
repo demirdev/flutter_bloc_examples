@@ -32,6 +32,7 @@ dependencies:
   bloc:
   flutter_bloc:
   equatable:
+  flutter_riverpod:
 
 
   # The following adds the Cupertino Icons font to your application.
